@@ -95,7 +95,8 @@ The primary purpose of the z-axis top cover is to prevent dust and debris from s
 # Motor :
 motor is help to movement of the print head along x,y,z axes.
 # completed assembly:
-![image](https://github.com/saniyaganesamoorthy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145742583/741ae722-9fa3-48c6-a8ce-60ff2415d659)
+![image](https://github.com/saniyaganesamoorthy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145742583/71f416d7-b782-4f05-90ce-1987d4bef841)
+
 # Frame :
 rigid structure that holds all the other components of the printer.
 
